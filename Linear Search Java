@@ -1,0 +1,10 @@
+public class Solution {
+    public int linearSearch(int[] A, int B) {
+        for(int i=0;i<A.length;i++){ //Run over the Loop
+            if (A[i]==B){  //checking condtion
+                return 1; //Found return 1
+            }
+        }
+        return 0; //Not Found return 0
+    }
+}
