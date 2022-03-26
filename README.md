@@ -8,6 +8,7 @@
     <h3>Linear Search</h3>
     <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Linear%20Search">Linear Search C++</a></li>
     <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Linear%20Search%20Python">Linear Search Python</a></li>
+    <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Linear%20Search%20Java">Linear Search Java</a></li>
   </ul>
   <ul>
     <h3>Linear Search</h3>
