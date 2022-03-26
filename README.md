@@ -1,12 +1,4 @@
 <h2>Problem Solving</h2>
-
-
-<html>
-<head>
-<style>
-  h1 {color:red;}
-  p {color:blue;}
-</style>
 </head>
 <body>
 
