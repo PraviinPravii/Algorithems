@@ -1,0 +1,10 @@
+int Solution::linearSearch(vector<int> &A, int B) {
+    for (int i=0;i<A.size();i++ ){ //Loop with Entire Array
+        if (A[i]==B){//Comparing Searching ELement
+            return 1;//found
+        }
+        
+        }
+        return 0;//Not found
+    }
+
