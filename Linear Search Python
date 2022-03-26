@@ -1,12 +1,11 @@
-<!-- HTML generated using hilite.me --><div style="background: #f8f8f8; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #008000; font-weight: bold">class</span> <span style="color: #0000FF; font-weight: bold">Solution</span>:
-    <span style="color: #408080; font-style: italic"># @param A : list of integers</span>
-    <span style="color: #408080; font-style: italic"># @param B : integer</span>
-    <span style="color: #408080; font-style: italic"># @return an integer</span>
-    <span style="color: #008000; font-weight: bold">def</span> <span style="color: #0000FF">linearSearch</span>(<span style="color: #008000">self</span>, A, B):
-        <span style="color: #008000; font-weight: bold">for</span> i <span style="color: #AA22FF; font-weight: bold">in</span> <span style="color: #008000">range</span>(<span style="color: #008000">len</span>(A)):<span style="color: #408080; font-style: italic">#Lopp of the Array</span>
-            <span style="color: #008000; font-weight: bold">if</span> A[i]<span style="color: #666666">==</span>B:        <span style="color: #408080; font-style: italic">#Comparision</span>
-                <span style="color: #008000; font-weight: bold">return</span> <span style="color: #666666">1</span>       <span style="color: #408080; font-style: italic">#found #return 1</span>
-                <span style="color: #008000; font-weight: bold">break</span>          <span style="color: #408080; font-style: italic">#IF found Break </span>
-        <span style="color: #008000; font-weight: bold">else</span>:
-            <span style="color: #008000; font-weight: bold">return</span> <span style="color: #666666">0</span>           <span style="color: #408080; font-style: italic">#Not found return 0</span>
-</pre></div>
+class Solution:
+    # @param A : list of integers
+    # @param B : integer
+    # @return an integer
+    def linearSearch(self, A, B):
+        for i in range(len(A)):#Lopp of the Array
+            if A[i]==B:        #Comparision
+                return 1       #found #return 1
+                break          #IF found Break 
+        else:
+            return 0           #Not found return 0
