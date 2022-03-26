@@ -5,7 +5,7 @@
 <h1>DSA Problems</h1>
 <dl>
   <dt>Linear Search</dt>
-  <dd><a href="https://www.linkedin.com/in/praveen-acharya-226a22125/">Linear Search</a></dd>
+  <dd><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Linear%20Search">Linear Search</a></dd>
   
 
 </dl>
