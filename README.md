@@ -6,6 +6,7 @@
 <dl>
   <dt>Linear Search</dt>
   <dd><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Linear%20Search">Linear Search C++</a></dd>
+  <dd><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Linear%20Search%20Python">Linear Search Python</a></dd>
   
 
 </dl>
