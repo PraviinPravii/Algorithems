@@ -1,11 +1,14 @@
 <h2>Problem Solving</h2>
 </head>
+
 <body>
 <a href="https://www.linkedin.com/in/praveen-acharya-226a22125/">Linked In Profile</a>
+ 
 <h1>DSA Problems</h1>
+  
 <ul>
   <h3>Searching</h3>
-  <ul style="list-style-type:disc">
+  <ul class="ulr">
     <h3>Linear Search</h3>
     <ul>
     <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Linear%20Search">Linear Search C++</a></li>
