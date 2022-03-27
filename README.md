@@ -18,12 +18,19 @@
   
   
   <h3>DSA Problems</h3>
-  <ul>
+  <ul style="list-style-type:disc">
     <h3>Pair count</h3>
+    <ul>
     <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Pair%20count%20Java">Pair Count Java</a></li>
     <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Pair%20count%20Java">Pair Count C++</a></li>
     <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Pair%20count%20Python">Pair Count Python</a></li>
+     </ul>
   </ul>
+  
+  
+  
+  
+ 
 
 
   
