@@ -14,7 +14,7 @@
     <h3>Problems</h3>
     <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Pair%20count%20Java">Pair Count Java</a></li>
     <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Pair%20count%20Java">Pair Count C++</a></li>
-    <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Pair%20count%20Java">Pair Count Python</a></li>
+    <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Pair%20count%20Python">Pair Count Python</a></li>
   </ul>
   <ul>
     <h3>Linear Search</h3>
