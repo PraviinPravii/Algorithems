@@ -1,0 +1,14 @@
+class Solution:
+    # @param A : list of integers
+    # @param B : integer
+    # @return an integer
+    def solve(self, A, B):
+        temp=0
+        count=0 #initialing count with zero
+        for i in range(len(A)): #loop over the array
+            temp=B-A[i] # Finding the element need to searched To make the pair
+            for j in range(i+1,len(A)): #Nested loop
+                if A[j]==temp: #comparision
+                    count+=1 #increament the counter
+        return count #Return the count of pairs
+
