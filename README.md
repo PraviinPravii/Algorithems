@@ -19,7 +19,7 @@
  <ul class="ulr">
     <h3>Binary Search</h3>
     <ul>
-    <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Binary%20Search%20Square%20root%20of%20a%20number%20Python">Find Square root of Number</a></li>
+    <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Binary%20Search%20Square%20root%20of%20a%20number%20Python">Find Square root of Number Python</a></li>
      </ul>
   </ul>
   
