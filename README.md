@@ -25,7 +25,7 @@
     <h3>Pair count</h3>
     <ul>
     <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Pair%20count%20Java">Pair Count Java</a></li>
-    <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Pair%20count%20Java">Pair Count C++</a></li>
+    <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Pair%20count%20C%2B%2B">Pair Count C++</a></li>
     <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Pair%20count%20Python">Pair Count Python</a></li>
      </ul>
   </ul>
