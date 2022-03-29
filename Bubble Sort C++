@@ -1,0 +1,13 @@
+vector<int> Solution::bubbleSort(vector<int> &A) {
+    long int temp;
+    for(int i=1;i<A.size();i++){ //running over the loop
+        for (int j=0;j<A.size()-i;j++){ //nested loop
+            if (A[j]>A[j+1]){ //condion check for ascending order
+            temp=A[j];  
+            A[j]=A[j+1]; // changing the data
+            A[j+1]=temp;
+            }
+        }
+    }
+    return A; //return the sorted array
+}
