@@ -1,0 +1,10 @@
+class Solution:
+    def bubbleSort(self, A):
+        for i in range(len(A)):
+            for j in range(len(A)-1): # O(N^2) loop for sorting  the array
+                 if A[j]>A[j+1]: #Checking the ascending order coondtion
+                    temp=A[j]
+                    A[j]=A[j+1] #Changing the data if condition is TRue
+                    A[j+1]=temp
+        return A #Return the sorted Array
+
