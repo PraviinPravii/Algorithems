@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-int single_number_2(int *A,int size){
+int single_number_1(int *A,int size){
     int i,j,k;
     int xor=0;
     for(i=0;i<size;i++){
@@ -22,7 +22,7 @@ int single_number_2(int *A,int size){
 int main()
 {	int Array[] = {2,3,1,4,7,66,3,1,2,4};
 	int size=sizeof(Array)/sizeof(Array[0]);
-    int set_bit=single_number_2(Array,size);
+    int set_bit=single_number_1(Array,size);
     int set=0;
     int unset=0;
     int i=0;
